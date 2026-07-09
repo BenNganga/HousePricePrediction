@@ -1,1 +1,1 @@
-Place the customer_churn.csv dataset in this folder.
+Place the housing.csv dataset in this folder.

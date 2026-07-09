@@ -1,8 +1,7 @@
 import joblib
 import pandas as pd
 
-
-model = joblib.load("models/churn_model.pkl")
+model = joblib.load("models/house_price_model.pkl")
 
 
 def predict(data):
